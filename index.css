@@ -32,6 +32,16 @@
     mask-image: url("images/mask1.png");
     mask-repeat: no-repeat;
 }
+.mask2 {
+    -webkit-mask-image: url("images/mask2.png");
+    mask-image: url("images/mask2.png");
+    mask-repeat: no-repeat;
+}
+.mask3 {
+    -webkit-mask-image: url("images/mask3.png");
+    mask-image: url("images/mask3.png");
+    mask-repeat: no-repeat;
+}
 
 .u-section-1 .embed-responsive-1 {
   position: absolute;
