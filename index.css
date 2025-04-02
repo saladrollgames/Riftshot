@@ -27,6 +27,12 @@
   margin: 13px 58px 41px auto;
 }
 
+.mask1 {
+    -webkit-mask-image: url("images/mask1.png");
+    mask-image: url("images/mask1.png");
+    mask-repeat: no-repeat;
+}
+
 .u-section-1 .embed-responsive-1 {
   position: absolute;
   width: 178%;
@@ -44,9 +50,9 @@
     min-height: 703px;
   }
 
-  .u-section-1 .u-image-1 {
-    margin: 55px auto 60px;
-  }
+    .u-section-1 .u-image-1 {
+        margin: 55px auto 60px;
+    }
 
   .u-section-1 .u-video-1 {
     width: 940px;
@@ -144,12 +150,14 @@
   height: 330px;
   transform-origin: center center;
   transform: translateX(-50%) translateY(-50%) rotate(359deg);
+
 }
 
 .u-section-2 .u-gallery-1 {
   height: 760px;
   margin-top: 40px;
   margin-bottom: 60px;
+  
 }
 
 .u-section-2 .u-gallery-inner-1 {

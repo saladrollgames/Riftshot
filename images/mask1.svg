@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="565.161" height="246.793" viewBox="0 0 3419 1493">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 7px;
+        fill-rule: evenodd;
+        stroke: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1693.78" y1="1488.19" x2="1693.78" y2="6.75" gradientUnits="userSpaceOnUse">
+      <stop offset="0"/>
+      <stop offset="0.281" stop-color="#fff"/>
+      <stop offset="0.683" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-1" d="M1384.9,1488.19S104.448,1216.43,100.848,1205.83,381.77,401.28,381.77,401.28L174.835,142.391,473.726,6.744S3076.96,264.063,3089.34,266.041c15.26,2.435,272.91,808.119,272.91,808.119l-651.14,265.76-656.25,120.81M3097.88,223.49l154.55-110.532L1046.82,32.118Zm-2968.237-46.6c13.99,6.545,196.527,222.656,196.527,222.656L0,1140.87,162.172,441.256S115.648,170.341,129.643,176.888ZM3387.55,1121.14s-506.49,218.34-509.03,226.26c-2.56,8-741.21,124.03-741.21,124.03l1240.16-9.08-98.33-146.92Z"/>
+</svg>

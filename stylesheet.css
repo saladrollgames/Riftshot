@@ -26519,7 +26519,7 @@ a.u-button-style.u-border-20 {
 }
 /*begin-variables font-family*/
 .u-body {
-  font-family: Mesmerize,sans-serif;
+  font-family: Mesmerize, "Winky Sans" ,sans-serif;
 }
 h1,
 h2,
@@ -26527,7 +26527,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Mesmerize,sans-serif;
+    font-family: Mesmerize, "Winky Sans" ,sans-serif;
 }
 /*end-variables font-family*/
 /*begin-variables color*/
