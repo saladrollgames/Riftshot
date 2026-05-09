@@ -1,0 +1,51 @@
+RIFTSHOT
+- Scrolling Backgrounds for main body
+- Springy Sections - https://codepen.io/creativeocean/pen/WboQLVe
+- Elastic Cursor follower
+- Header Uses this https://codepen.io/aleksa-rakocevic/pen/QwEEWam
+- Footer should combine https://codepen.io/amyth91/pen/DzYGaK and 
+- Menu! - https://codepen.io/mikel301292/pen/dMYRYZ and https://codepen.io/z-/pen/zYxdRQy
+Menu has - Home, Demo(links to Itch), Media, Contact, Salad Roll,
+
+
+<Main Page>
+
+SLING INTO IT
+Trailer Here
+Riftshot is a kinetic wildcard, an action platformer where you can grapple onto or off of almost anything!
+
+Let's see those moves!
+Full minute here
+-# Wow! That is a "Videos Game"!
+
+Welcome to <st>Stargrove</st> STARV Island!
+
+This is Planet Thera, 20XX. This is a world of science and love, much like our own, but with command over forces we've only barely begun to scratch. Auroras manifest once a year. Robotics have advanced to the point of defying physics. And yet, even in this wonderous world, greed and doubt still persist. The multi-industry monopoly STARV Inc. has has taken command of the unassuming Stargrove Island, a place harboring a deep secret. Reality is tearing at the seams. Festivals are self-destructing. And the island's aurora shards are being gathered for a sinister purpose.
+Until a Shooting Star appears.
+
+Use your slingshot to shoot across the sky and into enemies as your make your way across open lands, collecting Aurora Shards to help repair the island!
+
+10 compact and dense areas, ranging from a city perpetually bathed in neon, to a desert stuck in eternal thunderstorms. Uncover the secrets and weirdness in every corner of the island. 
+
+A strange, heartfelt story about the power of creation and connection. It's goofy, it's genuine, it's got a Time Being. Wanna know what that is? Me too. 
+
+
+To save the world, you must create a safe world for others. Will you bridge that space?
+
+DEMO LINK AND BUTTON HERE
+
+
+Character Page
+- Characters get these cards - https://codepen.io/gayane-gasparyan/pen/wvxewXO
+- Name, Title, and Descriptor 
+Split into good and bad guys
+
+Media:
+- Basically just reuse the gallery code from your Work Site. Same Stylization as everything else though
+
+Salad Roll Games:
+https://www.teamcherry.com.au/about make it look like team cherry's
+
+Contact:
+https://codepen.io/abdelrhmansaid/pen/OJRNOpQ
+uses the stylization of Salad Roll's main page though
